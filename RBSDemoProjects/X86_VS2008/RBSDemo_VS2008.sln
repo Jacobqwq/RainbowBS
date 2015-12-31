@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RBSDemo_VS2008", "RBSDemo_VS2008\RBSDemo_VS2008.vcproj", "{A47B9075-0E32-4FAE-AFD5-C0ABEFC6BB27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		APP_NONE|Win32 = APP_NONE|Win32
+		APP_OS|Win32 = APP_OS|Win32
+		APP_PTP|Win32 = APP_PTP|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A47B9075-0E32-4FAE-AFD5-C0ABEFC6BB27}.APP_NONE|Win32.ActiveCfg = APP_NONE|Win32
+		{A47B9075-0E32-4FAE-AFD5-C0ABEFC6BB27}.APP_NONE|Win32.Build.0 = APP_NONE|Win32
+		{A47B9075-0E32-4FAE-AFD5-C0ABEFC6BB27}.APP_OS|Win32.ActiveCfg = APP_OS|Win32
+		{A47B9075-0E32-4FAE-AFD5-C0ABEFC6BB27}.APP_OS|Win32.Build.0 = APP_OS|Win32
+		{A47B9075-0E32-4FAE-AFD5-C0ABEFC6BB27}.APP_PTP|Win32.ActiveCfg = APP_PTP|Win32
+		{A47B9075-0E32-4FAE-AFD5-C0ABEFC6BB27}.APP_PTP|Win32.Build.0 = APP_PTP|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

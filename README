@@ -1,0 +1,23 @@
+﻿
+RainbowBS(RBS) is an open-source base library developped for embeded systems especially with limited resources.
+
+RBS is released under the terms of LICENCE in current directory.
+Any user of the software package is bound to the terms and conditions of the end user license agreement.
+
+You will also find the following sub-directories:
+
+RBSDocument           - Contains RBS documentation.
+                        - RBSManual.chm         - RBS manual
+                        - RBSManual_Source.chm  - RBS manual with source inside
+ 
+RBSSource             - RBS sourcce files.
+                        - Base     - RBS core files
+                        - Config   - RBS configuration file
+                        - Port     - RBS portablle files
+
+RBSTools              - RAutoConfig for generating RBS configuration file by GUI.
+                      - pt-1.4.tar.gz protothreads materials
+
+RBSDemoProjects       - Demonstration examples.
+                        - STM32F4_MDK   - STM32F4 plantform on MDK
+                        - X86_VS2008    - MS Windows on VS2008
